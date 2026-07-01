@@ -3,7 +3,9 @@
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ammar%20Zaidi-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ammar-zaidi-02b5a337a/)(https://linkedin.com/in/https://www.linkedin.com/in/ammar-zaidi-02b5a337a/) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Ammar Zaidi) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ammarzaidi852@gmail.com) 
+🔗 Connect with me:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ammar%20Zaidi-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ammar-zaidi-02b5a337a/)(https://www.linkedin.com/in/ammar-zaidi-02b5a337a/)(https://linkedin.com/in/https://www.linkedin.com/in/ammar-zaidi-02b5a337a/) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Ammar Zaidi) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ammarzaidi852@gmail.com) 
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
